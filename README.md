@@ -1,3 +1,6 @@
+Fleek App on IPFS available at: https://bold-night-2178.on.fleek.co/ 
+Note: Ensure Chainlink VRF & Keepers are funded in LINK prior to using
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
